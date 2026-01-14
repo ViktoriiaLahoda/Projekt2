@@ -69,6 +69,9 @@ Filtrowanie: Usunięcie agregatów ("European Union", "Euro area")
 Standaryzacja: Skalowanie zmiennych (mean=0, sd=1) dla porównywalności
 
 📝 Autor
+
 Viktoriia Lahoda
+
 Praca zaliczeniowa - Uniwersytet Warszawski
-Warswa, Polska, 2025
+
+Warswa, Polska, 2026
