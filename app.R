@@ -15,7 +15,7 @@ czyszczenie <- function(x) {
 }
 
 wczytaj <- function(plik, zmienna, pomijaj_wiersze) {
-  github_url <- "https://github.com/ViktoriiaLahoda/Projekt2/main/"
+  github_url <- "https://raw.githubusercontent.com/ViktoriiaLahoda/Projekt2/main/"
   full_url <- paste0(github_url, plik)
   
   tryCatch({
@@ -288,4 +288,5 @@ server <- function(input, output, session) {
 }
 
 shinyApp(ui, server)
+
 
